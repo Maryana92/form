@@ -1,0 +1,29 @@
+.container{
+    background-color: aquamarine;
+}
+
+.error{
+    box-shadow: 0 0 10px 3px  red;
+}
+
+.success{
+    box-shadow: 0 0 10px 3px  green;
+
+}
+.reqText{
+   content: "*This field is required"; 
+}
+
+.message{
+    font-size: 14px;
+    font-style: italic;
+    margin-left: 14px;
+}
+.gender {
+    border: 0px solid black;
+    height: 36px;
+    margin-top: -5px;
+    padding-top: 4px;
+    padding-left: 4px;
+    border-radius: 3px;
+}
